@@ -1,0 +1,36 @@
+Sim city Bomb Squad
+
+## HTML
+
+ [] Game space - where it is
+ [] Div Wires
+    [] 5x
+ [] Reset
+ [] timer '<p>' tag
+ [] Reset button (disabled)
+
+## CSS
+ [] background image
+ [] GAme space  
+    []  background/ black
+[ ] timer   
+    [] text color fail or complete states
+    [] fonts
+[] widen reset button
+
+## JS
+###variables
+ [] 
+###Dom Ref
+ [] background ( change background)
+ []wirebox (attach event listeniner of clicked)
+    click event
+ [] reset(attach event listener)
+ [] timer(remaining time displayed)
+
+
+###Gamelogic
+ [] starting time _number_ constant
+ [] remaining time _number_
+ [] bomb state _boolean_
+ [] wires state
